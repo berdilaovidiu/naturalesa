@@ -17,7 +17,7 @@ p {
     margin-top: 56px;
     margin-bottom: 8px;
     font-family: 'El Messiri', sans-serif;
-    font-size: 64pt;
+    font-size: 48pt;
     line-height: 1em;
     color: #373737;
 }
@@ -25,7 +25,7 @@ p {
 .subtitle{
     max-width: 50rem;
     font-family: 'Open Sans', sans-serif;
-    font-size: 18pt;
+    font-size: 16pt;
     margin-top: 0px;
     margin-bottom: 96px;
     color: #373737;
@@ -46,7 +46,7 @@ a {
 }
 
 #buton {
-    max-width:300px;
+    width:276px;
     display: block;
     text-align: center;
     padding: 10px;
@@ -59,8 +59,13 @@ a {
     font-size: 13pt;
     text-decoration: none;
 
-    color: darkblue;
-    background-color: aquamarine;
+    color: ghostwhite;
+    background-color: #718878;
     text-transform: uppercase;
+
+}
+
+#buton:hover{
+    background-color: #2E4E43;
 
 }
