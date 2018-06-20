@@ -1,6 +1,8 @@
 body {
-    background-image: url("plant-sunshine-white-house-floor-interior-1058155-pxhere.com.jpg");
-    background-repeat: no-repeat;
+    background: url("35686950_10209002294134548_4950536582777012224_n.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
 }
 
@@ -12,30 +14,53 @@ p {
 }
 
 .title{
-    font-family: "Apple Chancery";
-    font-size: 48px;
+    margin-top: 56px;
+    margin-bottom: 8px;
+    font-family: 'El Messiri', sans-serif;
+    font-size: 64pt;
+    line-height: 1em;
+    color: #373737;
 }
 
 .subtitle{
     max-width: 50rem;
-    font-family: "Apple Chancery";
-    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18pt;
+    margin-top: 0px;
+    margin-bottom: 96px;
+    color: #373737;
+}
+
+.placeholder{
+    max-width: 50rem;
+    font-family: 'Poiret One', sans-serif;
+    font-size: 16pt;
 }
 
 a {
+
+    text-decoration: none;
+
+    color: black;
+
+}
+
+#buton {
     max-width:300px;
     display: block;
     text-align: center;
     padding: 10px;
+    margin-top: 96px;
 
     margin-left: auto;
     margin-right: auto;
 
-    font-family: "Apple Chancery";
-    font-size: 20px;
+    font-family: "Open Sans";
+    font-size: 13pt;
     text-decoration: none;
 
     color: darkblue;
-    background-color: red;
+    background-color: aquamarine;
+    text-transform: uppercase;
 
 }
