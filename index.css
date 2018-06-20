@@ -1,0 +1,41 @@
+body {
+    background-image: url("plant-sunshine-white-house-floor-interior-1058155-pxhere.com.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    text-align: center;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title{
+    font-family: "Apple Chancery";
+    font-size: 48px;
+}
+
+.subtitle{
+    max-width: 50rem;
+    font-family: "Apple Chancery";
+    font-size: 24px;
+}
+
+a {
+    max-width:300px;
+    display: block;
+    text-align: center;
+    padding: 10px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family: "Apple Chancery";
+    font-size: 20px;
+    text-decoration: none;
+
+    color: darkblue;
+    background-color: red;
+
+}
