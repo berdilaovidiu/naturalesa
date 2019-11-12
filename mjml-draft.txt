@@ -1,0 +1,85 @@
+<mjml>
+  <mj-head>
+    <mj-font name="ElMessiri" href="https://fonts.googleapis.com/css?family=El+Messiri" />
+  </mj-head>
+
+  <mj-body>
+
+    <!-- Company Header -->
+    <mj-section background-color="#839973">
+      <mj-column>
+        <mj-image width="96px" src="https://raw.githubusercontent.com/berdilaovidiu/naturalesa/master/logo-white.png" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" font-style="italic" font-size="20px" color="#626262">
+          NATURALESA
+        </mj-text>
+        <mj-text align="center" font-style="italic" font-size="20px" color="#626262">
+          design interior si arhitectură
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Milestone image -->
+    <mj-section>
+      <mj-column>
+        <mj-image width="166px" src="https://raw.githubusercontent.com/berdilaovidiu/naturalesa/master/milestone-placeholder.png" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Email body section -->
+    <mj-section>
+      <mj-column width="528px">
+
+        <mj-text font-size="15px" font-family="Open Sans" color="#626262">Buna ziua, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit amet suscipit nibh. Proin nec commodo
+          purus. Sed eget nulla elit. Nulla aliquet mollis faucibus. Text</mj-text>
+
+        <mj-button background-color="#613942" href="#">Vezi randari</mj-button>
+
+      </mj-column>
+    </mj-section>
+
+        <!-- Project steps -->
+    <mj-section>
+      <mj-column>
+        <mj-text color="#525252">
+          Pasii proiectului:</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Project steps -->
+    <mj-section>
+
+      <!-- Left image -->
+      <mj-column>
+        <mj-text>prima coloana de pasi ai proiectului</mj-text>
+        <mj-text>prima coloana de pasi ai proiectului</mj-text>
+        <mj-text>prima coloana de pasi ai proiectului</mj-text>
+        <mj-text>prima coloana de pasi ai proiectului</mj-text>
+        <mj-text>prima coloana de pasi ai proiectului</mj-text>
+      </mj-column>
+
+      <!-- right paragraph -->
+      <mj-column>
+        <mj-text>a doua coloana de pasi ai proiectului</mj-text>
+        <mj-text>a doua coloana de pasi ai proiectului</mj-text>
+        <mj-text>a doua coloana de pasi ai proiectului</mj-text>
+        <mj-text>a doua coloana de pasi ai proiectului</mj-text>
+        <mj-text>a doua coloana de pasi ai proiectului</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#E8DBCB">
+      <mj-column width="528px">
+
+        <mj-text font-size="15px" font-family="Open Sans" color="#626262">Buna ziua, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit amet suscipit nibh. Proin nec commodo
+          purus. Sed eget nulla elit. Nulla aliquet mollis faucibus. Text</mj-text>
+
+       
+
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
